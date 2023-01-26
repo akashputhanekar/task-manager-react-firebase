@@ -26,18 +26,27 @@ ProtoType for demonstration of a POC to the stakeholders
 
 ## Installation and Setup Instructions
 
-#### Example:
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.
+Clone this repository. You will need `node` and `npm` installed globally on your machine.
 
 Installation:
 
 `npm install`
 
-To Start Server:
+ENV Setup [ If you wish to try out with my firebox sandbox account given in .env.example ]:
+
+`cp .env.example .env`
+
+To start the development server:
 
 `npm run start`
 
-To Visit App:
+To visit the application:
 
 `localhost:3000/`
+
+#### Admin credentials for testing [ If you're using my firebox sandbox account given in .env.example ]:
+
+` Username: firebaseadmin@yopmail.com `
+
+` Password: 12345678 `
