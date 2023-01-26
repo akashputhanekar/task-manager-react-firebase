@@ -12,11 +12,17 @@ ProtoType for demonstration of a POC to the stakeholders
 
 #### Login Screen:
 
-image.png
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/81794840/214939498-c8cbdcf2-f14f-4b1a-8d3b-69e8a62f4324.png">
 
-#### Tasks:
 
-image.png
+#### Manage Tasks:
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/81794840/214939660-6a476f2b-50f0-497f-b4b7-f317b3c805f9.png">
+
+#### List Tasks:
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/81794840/214939931-9fab0621-b8de-4bb8-bea5-cb1b75513c5d.png">
+
 
 ## Installation and Setup Instructions
 
