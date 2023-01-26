@@ -1,0 +1,58 @@
+.taskManager > header {
+    padding: 25px 20px;
+    background-color: hsl(210, 12%, 15%);
+    color: white;
+    font-size: 28px;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-between;
+}
+
+.taskManager > header > button {
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    padding: 08px 20px;
+    background-color: white;
+    cursor: pointer;
+    color: black;
+    font-family: cursive;
+}
+
+.taskManager > header > button > a {
+    text-decoration: none;
+}
+
+.taskManager__container {
+    width: 95%;
+    margin: 50px auto 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.taskManager__container > button {
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    margin: 0 auto;
+    background-color: hsl(210, 12%, 15%);
+    cursor: pointer;
+}
+
+.taskManager__container > button:hover {
+    background-color: hsl(210, 12%, 25%);
+}
+
+.taskManager__container > button:active {
+    background-color: hsl(210, 12%, 15%);
+}
+
+.taskManager__tasks {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+}
